@@ -3,6 +3,12 @@
 1D finite element method for
 [Poisson's equation](https://en.wikipedia.org/wiki/Poisson%27s_equation) -Δu = 1 in Haskell.
 
+
+## Pre-requisites
+
+    sudo apt install gnuplot-x11 libblas-dev liblapack-dev
+
+
 ## Build
 This assumes you have [stack](https://docs.haskellstack.org/en/stable/README/) installed.
 
